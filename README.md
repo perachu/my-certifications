@@ -12,10 +12,10 @@
 ## R
 - R Developer: Advanced Level, W3schools
   
-## Data Analysis
+## Data Analytics
 - Data Analyst: Professional, DataRockie School
 - Data Analyst, W3schools
-- Data Science, W3schools
+- Data Scientist, W3schools
   
 ## Backend Developer
 - Backend Developer with Python: Advanced Level, W3schools
