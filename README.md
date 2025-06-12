@@ -14,6 +14,8 @@
   
 ## Data Analysis
 - Data Analyst: Professional, DataRockie School
+- Data Analyst, W3schools
+- Data Science, W3schools
   
 ## Backend Developer
 - Backend Developer with Python: Advanced Level, W3schools
