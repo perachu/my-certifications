@@ -1,4 +1,4 @@
-# Certifications
+# My Certifications
 
 ## SQL
 - MySQL Developer: Professional, W3schools
