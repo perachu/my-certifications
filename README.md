@@ -7,7 +7,7 @@
 ## Python
 - Python Developer: Advanced Level, W3schools
 - Pandas: Advanced Level, W3schools
-- Numpy: Professional Level, W3schools
+- NumPy: Professional Level, W3schools
 
 ## R
 - R Developer: Advanced Level, W3schools
